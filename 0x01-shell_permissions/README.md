@@ -1,1 +1,1 @@
-Showing shell permissions
+Show shell permissions
